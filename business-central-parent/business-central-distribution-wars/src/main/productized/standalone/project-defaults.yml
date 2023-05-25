@@ -1,0 +1,7 @@
+org:
+  kie:
+    workbench:
+      profile: FULL
+  jbpm:
+    designer:
+      perspective: ruleflow
